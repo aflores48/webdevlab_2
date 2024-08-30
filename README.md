@@ -4,7 +4,6 @@
 	<head>
 		<title>Internet Technologies and Web Design</title>
 		<meta charset="utf-8">
-		<meta name="" content="">
 	</head>
 	<body>
 		<h1>Internet Technologies and Web Design</h1>
