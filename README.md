@@ -6,8 +6,8 @@
 </head>
 <body>
   <h1>ITMD-361 Internet Technologies and Web Design</h1>
-  <h3>Semester? Year?</h3>
-  <p>Student Name and email</p>
+  <h3>Semester 1, 2024/25</h3>
+  <p>Andreas Flores and aflores48@hawk.iit.edu</p>
   <h2>Professor:</h2>
   <p>Daniel Krieglstein</p>
   <h2>Lecture Days, Time and Place:</h2>
